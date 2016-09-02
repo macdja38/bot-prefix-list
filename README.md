@@ -16,6 +16,7 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `_` - Gus#0291 (Gus#0291)
 - `>` - PikaBot01#7552 (PikaDude#5386)
 - `!` - 35#5300 (Roadcrosser#3657), blargbot#0128 (stupid cat#8160)
+- `!!` - deeBot#0996 (dinos#0649)
 - `!?` - Grumpy Uncle#6918 (AnonymousDapper#7467)
 - `+` - haru#4269 (pyraxo#6185), 35#5300 (Roadcrosser#3657)
 - `＋` - 35#5300 (Roadcrosser#3657)
