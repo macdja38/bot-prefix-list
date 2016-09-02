@@ -27,6 +27,8 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `%-` - ArchBot#4666 (Bubbie#5833 and towergame#9726)
 - `-midi` - MidiBot#8276 (TheBITLINK#3141)
 - `=>` - Momo ♪♪#4559 (Minn#6688)
+- `§` - Fish#9627 (fishyfing#6565)
+- `#` - Fish#9627 (fishyfing#6565)
 - `snake` - snake#0555 (AnonymousDapper#7467)
 
 ## Contributing
