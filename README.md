@@ -22,7 +22,7 @@ This list was made to try and prevent the huge overlaps that we currently have w
 - `＋` - 35#5300 (Roadcrosser#3657)
 - `​` - 35#5300 (Roadcrosser#3657)
 - `?=` - VOLT#7078 (Aurieh#8140)
-- `>=` - voltexp#9065 (Aurieh#8140)
+- `v!` - voltexp#9065 (Aurieh#8140)
 - `?` - HAL 9000#4440, HAL Testbed#7388 (Serena#5960)
 - `%-` - ArchBot#4666 (Bubbie#5833 and towergame#9726)
 - `-midi` - MidiBot#8276 (TheBITLINK#3141)
